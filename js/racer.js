@@ -1,0 +1,1 @@
+a function that each time you press a key moves the active state across one table cell. 
