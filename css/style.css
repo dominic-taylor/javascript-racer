@@ -12,6 +12,14 @@
   border-bottom-color: black;
 }
 
-.racer_table td.active {
+#player1_strip td.active {
   background-color: red;
+}
+
+#player2_strip td.active {
+  background-color: blue; 
+}
+
+.racer_table td.mine {
+  background-color: black;
 }

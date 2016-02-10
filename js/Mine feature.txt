@@ -1,0 +1,14 @@
+Mine feature. 
+
+Have random mines pop up on table, if player and active state == mine, then
+minus two frm the player state. 
+
+
+function which chooses a random table cell number.
+
+function which puts the player back if they hit the table cell. 
+
+
+Changed race car colours and added mine class. 
+Next make mine class send you back 2 spaces.
+Make mine class random. 
