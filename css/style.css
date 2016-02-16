@@ -23,3 +23,7 @@
 .racer_table td.mine {
   background-color: black;
 }
+
+.racer_table .end {
+  background-color: green;
+}

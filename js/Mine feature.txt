@@ -12,3 +12,6 @@ function which puts the player back if they hit the table cell.
 Changed race car colours and added mine class. 
 Next make mine class send you back 2 spaces.
 Make mine class random. 
+
+if mine.cell == ativie.cell
+    active cell back 2.
