@@ -15,3 +15,11 @@ Make mine class random.
 
 if mine.cell == ativie.cell
     active cell back 2.
+
+Have added feature that drops a mine on a random cell of the track for both players. 
+When the player hits the mine, there car is set back 2 spaces. SO far there is only 
+one mine each for both players, which they must hit. What else do I want from this? 
+Multiple lanes? A player can decide to cross the lane instead of hitting the mine. 
+Mines appear more for the leader? Mines appear after the first has been taken out? 
+
+If one player is ahead of the other by a certain number of moves they get a mine on their track? 
